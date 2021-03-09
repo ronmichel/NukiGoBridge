@@ -13,4 +13,4 @@ WORKDIR /config
 VOLUME /config
 ENV NUKI_CONFIGPATH /config
 
-CMD ["nukibridge -e NUKI_TOKEN=secret1234 -v /mnt/storage/nukibridge-config:/config --rm --cap-add=SYS_ADMIN --cap-add=NET_ADMIN --net=host bashgroup/nukigobridge"]
+CMD ["nukibridge"]
