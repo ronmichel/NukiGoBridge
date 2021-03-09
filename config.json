@@ -1,8 +1,8 @@
 {
-  "name": "Hello world",
+  "name": "NukiGoBridge",
   "version": "0.6",
   "slug": "hello_world",
-  "description": "My first real add-on!",
+  "description": "nuki add-on!",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "full_access": true,
   "privileged": true,
