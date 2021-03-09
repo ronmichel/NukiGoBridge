@@ -1,7 +1,7 @@
 
 {
   "name": "NukiGoBridge",
-  "version": "0.1",
+  "version": "0.2",
   "slug": "hello_world",
   "description": "nuki add-on!",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
